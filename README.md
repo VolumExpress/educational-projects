@@ -1,10 +1,12 @@
 # Репозиторий с учебными проектами, выполненными в рамках обучения в Яндекс.Практикум
 
-Папки:
+Проекты:
 - real-estate-analysis - Анализ рынка недвижимости Санкт-Петербурга
 - gamedev-analysis - Выявление законномерностей успешности игр.
 - business-performance-analysis - Бизнес анализ маркетинговых метрик.
-- statistical-analysis - статистический анализ данных мобильного оператора.
+- statistical-analysis - Статистический анализ данных мобильного оператора.
+
+[I'm an inline-style link]([https://www.google.com](https://github.com/VolumExpress/educational-projects/tree/main/statistical-analysis))
 
 # Пройденные в рамках обучения темы:
 - Основы Python и анализа данных (списки, циклы, условия, словари, pandas);
