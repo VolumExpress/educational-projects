@@ -6,7 +6,7 @@
 - business-performance-analysis - Бизнес анализ маркетинговых метрик.
 - statistical-analysis - Статистический анализ данных мобильного оператора.
 
-[I'm an inline-style link]([https://www.google.com](https://github.com/VolumExpress/educational-projects/tree/main/statistical-analysis))
+[I'm an inline-style link](https://github.com/VolumExpress/educational-projects/tree/main/statistical-analysis)
 
 # Пройденные в рамках обучения темы:
 - Основы Python и анализа данных (списки, циклы, условия, словари, pandas);
