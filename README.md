@@ -29,6 +29,7 @@
 - numpy
 - scipy
 - statsmodels
+- scikit-learn
 - requests
 - re
 - NLTK
