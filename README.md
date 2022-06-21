@@ -4,7 +4,10 @@
 - [Анализ рынка недвижимости Санкт-Петербурга](https://github.com/VolumExpress/educational-projects/tree/main/real-estate-analysis)
 - [Выявление законномерностей успешности игр](https://github.com/VolumExpress/educational-projects/tree/main/gamedev-analysis)
 - [Бизнес анализ маркетинговых метрик](https://github.com/VolumExpress/educational-projects/tree/main/business-performance-analysis)
-- [Статистический анализ данных мобильного оператора.](https://github.com/VolumExpress/educational-projects/tree/main/statistical-analysis)
+- [Статистический анализ данных мобильного оператора](https://github.com/VolumExpress/educational-projects/tree/main/statistical-analysis)
+- [Проверка гипотез по увеличению выручки в интернет-магазине (А/В-тестирование](https://github.com/VolumExpress/educational-projects/tree/main/business-decision-making)
+- [Исследования рынка общепита в Москве](https://github.com/VolumExpress/educational-projects/tree/main/market-research)
+- [Анализ пользовательского поведения в мобильном приложении](https://github.com/VolumExpress/educational-projects/tree/main/product-analysis)
 
 
 # Пройденные в рамках обучения темы:
@@ -18,7 +21,7 @@
 - Принятие решений в бизнесе (А/В-тесты, приоритизация гипотез)
 - Рассказ истории с помощью данных (продвинутая визуализация и подготовка презентаций);
 - Автоматизация (дата-пайплайны и создание дашбордов в Tableau);
-- Основы машинного обучения
+- Основы машинного обучения (Задачи регрессии, классификации, кластеризации)
 
 
 # Использованные в рамках обучения библиотеки:
