@@ -5,7 +5,7 @@
 - [Выявление законномерностей успешности игр](https://github.com/VolumExpress/educational-projects/tree/main/gamedev-analysis)
 - [Бизнес анализ маркетинговых метрик](https://github.com/VolumExpress/educational-projects/tree/main/business-performance-analysis)
 - [Статистический анализ данных мобильного оператора](https://github.com/VolumExpress/educational-projects/tree/main/statistical-analysis)
-- [Проверка гипотез по увеличению выручки в интернет-магазине (А/В-тестирование](https://github.com/VolumExpress/educational-projects/tree/main/business-decision-making)
+- [Проверка гипотез по увеличению выручки в интернет-магазине (А/В-тестирование)](https://github.com/VolumExpress/educational-projects/tree/main/business-decision-making)
 - [Исследования рынка общепита в Москве](https://github.com/VolumExpress/educational-projects/tree/main/market-research)
 - [Анализ пользовательского поведения в мобильном приложении](https://github.com/VolumExpress/educational-projects/tree/main/product-analysis)
 
