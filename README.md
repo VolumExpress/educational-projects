@@ -2,8 +2,8 @@
 
 Проекты:
 - [Анализ рынка недвижимости Санкт-Петербурга](https://github.com/VolumExpress/educational-projects/tree/main/real-estate-analysis)
-- [Выявление законномерностей успешности игр.](https://github.com/VolumExpress/educational-projects/tree/main/gamedev-analysis)
-- [Бизнес анализ маркетинговых метрик.](https://github.com/VolumExpress/educational-projects/tree/main/business-performance-analysis)
+- [Выявление законномерностей успешности игр](https://github.com/VolumExpress/educational-projects/tree/main/gamedev-analysis)
+- [Бизнес анализ маркетинговых метрик](https://github.com/VolumExpress/educational-projects/tree/main/business-performance-analysis)
 - [Статистический анализ данных мобильного оператора.](https://github.com/VolumExpress/educational-projects/tree/main/statistical-analysis)
 
 
