@@ -25,15 +25,17 @@
 
 
 # Использованные в рамках обучения библиотеки:
-- pandas
-- seaborn
-- matplotlib
-- bokeh
 - numpy
-- scipy
-- statsmodels
-- scikit-learn
-- requests
-- re
-- NLTK
-- pymystem3
+- pandas
+- matplotlib.pyplot
+- seaborn
+- warnings
+- sklearn
+- xgboost
+- catboost
+- tensorflow
+
+# Требуемые для приложения библиотеки:
+- numpy
+- pandas
+- tensorflow
