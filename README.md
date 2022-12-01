@@ -23,19 +23,16 @@
 - Автоматизация (дата-пайплайны и создание дашбордов в Tableau);
 - Основы машинного обучения (Задачи регрессии, классификации, кластеризации)
 
-
-# Использованные в рамках обучения библиотеки:
-- numpy
+# Использованные в рамках исследования библиотеки:
 - pandas
-- matplotlib.pyplot
 - seaborn
-- warnings
-- sklearn
-- xgboost
-- catboost
-- tensorflow
-
-# Требуемые для приложения библиотеки:
+- matplotlib
+- bokeh
 - numpy
-- pandas
-- tensorflow
+- scipy
+- statsmodels
+- scikit-learn
+- requests
+- re
+- NLTK
+- pymystem3
